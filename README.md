@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @tpalmz313
+- 👋 Hi, I’m Thomas
 - 👀 I’m interested in FinTech and Financial literacy 
 - 🌱 I’m currently learning about furthering the functionality of the financial system 
-- 💞️ I’m looking to collaborate on projects to further my porfolio 
+- 💞️ I’m looking to collaborate on projects to expand my porfolio 
 - 📫 How to reach me, shoot me an email at tpalmusmc@yahoo.com 
 
 <!---
